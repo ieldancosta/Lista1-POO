@@ -13,6 +13,6 @@
 6. [Exercício 6 - Agenda](https://github.com/ieldancosta/Lista1-POO/tree/main/Lista%20POO/src/Ex6)
 7. [Exercício 7 - Elevador](https://github.com/ieldancosta/Lista1-POO/tree/main/Lista%20POO/src/Ex7)
 8. [Exercício 8 - Controle Remoto](https://github.com/ieldancosta/Lista1-POO/tree/main/Lista%20POO/src/Ex8)
-9. [Main](https://github.com/ieldancosta/Lista1-POO/blob/main/src/Main.java)
+9. [Main](https://github.com/ieldancosta/Lista1-POO/blob/main/Lista%20POO/src/Main.java)
 
 Dá pra acessar todos os exercicios diretamente pelo main do projeto
